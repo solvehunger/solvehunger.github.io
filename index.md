@@ -1,13 +1,13 @@
 ---
-title: Open Innovation Labs
+title: Solve Hunger
 layout: home
 group: home
 ---
 
-# Welcome to Open Innovation Labs!
+# Welcome to the Solve Hunger Program Site!
 {: .display-4}
 <br>
-We bring to bear bleeding edge technologies such as Robotics, A.I. , IoT and the Cloud to solve some of the most vexing problems facing organizations and humanity.
+We are a small group of individuals focused on building tools and solutions for solving hunger. We bring to bear bleeding edge technologies such as Robotics, A.I. , IoT and the Cloud to solve this problem. We are currently working in the city of Detroit. Our solutions are designed to be used across the world.
 {: .welcomefont}
 
 ![Open Innovation lab robotics](static/img/logo/FinalLabeledDriveThruGraphic.png){:style="max-width: 100%; height: auto;"}
