@@ -1,0 +1,59 @@
+- name: Home
+  link: "/"
+  group: home
+
+- name: Projects
+  link: "/projects"
+  group: projects
+  
+- name: Members
+  link: "/members"
+  group: members
+
+- name: Experts
+  link: "/experts"
+  group: experts
+
+#- name: Partners
+#  link: "/partners"
+#  group: partners
+
+#- name: Members
+#  link: "/members"
+#  group: members
+
+#- name: Robotics
+#  link: "/robotics"
+#  group: robotics
+
+#- name: AI
+#  link: "/compact"
+#  group: compact
+  
+#- name: Blockchain
+#  link: "/reviews"
+#  group: reviews
+
+#- name: Mental health
+#  link: "/courses"
+#  group: courses
+
+#- name: publications
+#  link: "/publications"
+#  group: publications
+
+#- name: News
+#  link: "/news"
+#  group: news
+
+- name: Join
+  link: "/join"
+  group: join
+
+- name: Contact
+  link: "/contact"
+  group: contact
+
+#- name: Private
+#  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
+#  group: private
